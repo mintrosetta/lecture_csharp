@@ -1,0 +1,12 @@
+
+    :: What is .NET ?
+    เป็นเครื่องมือที่ใช้สร้าง Desktop App, Web App, Mobile App
+
+    :: .NET support multiple language
+    - C#
+    - VB
+    - VC++
+
+    :: Modules & App
+    - ASP.NET -> web static, web application, web service
+    - C#.NET  -> windows gui application, windows service, console application
