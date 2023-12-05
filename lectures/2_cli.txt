@@ -1,0 +1,23 @@
+
+    Common Language Infrastructure
+
+    :: วิธีการ complie code
+    [Application source code] ---> [Microsoft Intermedia Language] ---> [Common Language Runtime] ---> [Native machine code]
+    
+    > Application source code   
+        - เป็น source code ที่ developer สร้างขึ้นมา เช่น C#, VB.NET
+    
+    > Microsoft intermedia language
+        - เป็นภาษาระดับกลางของ Microsoft
+        - ไม่ว่า code ของเราจะถูกเขียนขึ้นมาด้วยภาษาใด เช่น C#, VB.NET มันจะถูกแปลงเป็น IL (.exe)
+
+    > Common Language Runtime
+        - Execution Engime of all .NET Modules
+        - แปลงภาษา IL เป็น Native machine code
+        - Exception management
+        - class loading
+    
+    > Native machine code
+        - เป็นภาษาที่ hardware สามารถอ่านทำความเข้าใจได้
+
+    :: ildasm
